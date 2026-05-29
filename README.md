@@ -14,10 +14,11 @@ The core idea is simple: **think, sketch with code, then render**.
 
 ## Highlights
 
-- **Code as a visual brush.** The agent writes executable visual sketches, such as SVG, HTML/CSS, Python, or lightweight 3D code, to make layout and structure explicit.
-- **More controllable generation.** Object counts, spatial relations, text layout, and layer order can be grounded in code before photorealistic rendering.
-- **Transparent intermediate states.** The generation process becomes easier to inspect, debug, and revise than a pure prompt-to-image pipeline.
-- **General visual tasks.** GenClaw is designed for complex composition, text rendering, physical reasoning, knowledge-grounded generation, and layered image editing.
+🎨 **Code as a Visual Brush.** The agent creates by writing executable visual sketches—SVG, HTML/CSS, Python, lightweight 3D code—turning object count, spatial layout, and text rendering into executable, verifiable, debuggable programs. Image synthesis shifts from implicit diffusion sampling to an explicit, reasoning-friendly process.
+
+✋ **Draw as a Human Artist.** We mirror the human creative loop—conceptualize → sketch → coloring → refine—and make every stage transparent: ideation, reference retrieval, drafting, and incremental rendering are all surfaced as inspectable, editable, revertible artifacts. Generation becomes an iterative collaboration rather than one-shot black-box inference.
+
+🔌 **Agent Harness for Image Generation.** We plug an LLM agent's proven planning, tool-use, and reflection abilities directly into image synthesis, exploring an agent harness for image generation—so that creating images becomes a first-class capability inside the agent's toolbox, not an isolated standalone model.
 
 ## Showcase
 

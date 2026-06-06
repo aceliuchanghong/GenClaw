@@ -23,7 +23,7 @@ The core idea is simple: **think, sketch with code, then render**.
 ## Showcase
 
 <p align="center">
-  <img src="assets/showcase.jpg" width="95%">
+  <img src="assets/showcases.jpg" width="95%">
 </p>
 
 ## Visual Examples
